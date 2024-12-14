@@ -1,8 +1,5 @@
 ## Hi there 👋
 
-<!--
-**RaihanAnakBaik/RaihanAnakBaik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on LRT Jabodebek
@@ -10,7 +7,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: rafirayhan83@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: Undergraduate Information Technology student at Universitas Bina Sarana Informatika
--->
 
 
 ## 🌐 Socials:
