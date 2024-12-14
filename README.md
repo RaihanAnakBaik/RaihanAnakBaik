@@ -1,7 +1,5 @@
 ## Hi there 👋
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on LRT Jabodebek
 - 🌱 I’m currently learning Next.js
 - 📫 How to reach me: rafirayhan83@gmail.com
